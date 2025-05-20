@@ -33,7 +33,7 @@ cd brokage-test
 # Run the application
 ./gradlew bootRun
 # Or run the generated JAR:
-java -jar build/libs/stock-order-system-0.0.1-SNAPSHOT.jar
+java -jar build/libs/brokage-test-0.0.1-SNAPSHOT.jar
 
 # H2 Console Access
 http://localhost:8080/h2-console
